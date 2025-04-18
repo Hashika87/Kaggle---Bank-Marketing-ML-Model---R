@@ -2,6 +2,7 @@ Bank Marketing ML Model
 
 "Hello GitHub community! Thrilled to share my very first ML model with you all. Consider this my maiden voyage into the world of GitHub. If you find even a spark of insight or enjoyment within, an upvote would be a fantastic welcome aboard! I'm particularly eager to hear your thoughts – even a single word in the comments would be incredibly valuable. And if you happen to appreciate the code, a like would truly fuel my future explorations here.
 
+
 =================================
 
 Dataset Link
